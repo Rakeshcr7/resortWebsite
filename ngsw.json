@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621790827705,
+  "timestamp": 1621791537815,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,6 +13,7 @@
       "urls": [
         "/index.html",
         "/main.9f6ca6e249e97c9ccb27.js",
+        "/main.f91ae9b2e1ecf43e8ae6.js",
         "/manifest.webmanifest",
         "/ngsw-worker.js",
         "/polyfills.94daefd414b8355106ab.js",
@@ -112,15 +113,16 @@
     "/assets/images/unsplash/wChikmagaluru.jpg": "7209ad8300e9e9f39ef5f5abe21c49e2834a3570",
     "/assets/images/unsplash/wGokarna.jpg": "0b4b299f7b6634fdacea7886a5f1857cce5008b7",
     "/assets/images/unsplash/wSringeri.jpg": "e1d9285064f34741f444eef40602a7b1215c8f7d",
-    "/index.html": "69a1eb3e5b7e4bcbaf312388db0c2ff591197c85",
+    "/index.html": "665fb83871a9444fbf62cfd6710a9b4da7fdf3e6",
     "/main.9f6ca6e249e97c9ccb27.js": "87ae48cf0091fc6d9cb60b8d793c0990268b92d1",
+    "/main.f91ae9b2e1ecf43e8ae6.js": "5683b91e83613526c892d9ca40065ab75222d420",
     "/manifest.webmanifest": "6c00f757033d6aad80fc964b708f12a24de02454",
-    "/ngsw-worker.js": "dc34c15c57886928257bc5535ffabfecc5f42182",
+    "/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/safety-worker.js": "621305af46855d5b3083d0319d385f1dc01a6f18",
+    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "/styles.5a27c927db7c04440440.css": "84aad1263893b5beb15dfe785356734685f15bb6",
-    "/worker-basic.min.js": "621305af46855d5b3083d0319d385f1dc01a6f18"
+    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
   },
   "navigationUrls": [
     {
