@@ -1,0 +1,138 @@
+{
+  "configVersion": 1,
+  "timestamp": 1621787433649,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main.9f6ca6e249e97c9ccb27.js",
+        "/manifest.webmanifest",
+        "/polyfills.94daefd414b8355106ab.js",
+        "/runtime.7b63b9fd40098a2e8207.js",
+        "/styles.5a27c927db7c04440440.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/WhatsApp_Logo_6.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/allImages/astagiri-homestay.jpg",
+        "/assets/images/allImages/bahar-beach-house-udupi.jpg",
+        "/assets/images/allImages/bengaluru.jpeg",
+        "/assets/images/allImages/etthinabhuja-chikmagalur.jpeg",
+        "/assets/images/allImages/gubbi-goodu-veg-resort.jpg",
+        "/assets/images/allImages/homeImage.png",
+        "/assets/images/allImages/mydayouting-banner.jpg",
+        "/assets/images/allImages/om-beach-gokarna.jpeg",
+        "/assets/images/allImages/suggee-resort-bangalore.jpg",
+        "/assets/images/allImages/sw-beach-stay-gokarna.jpg",
+        "/assets/images/allImages/udupi.jpeg",
+        "/assets/images/backgroundHome.jpg",
+        "/assets/images/headerLogo.png",
+        "/assets/images/unsplash/dBengaluru.jpg",
+        "/assets/images/unsplash/dChikmagaluru.jpg",
+        "/assets/images/unsplash/dGokarna.jpg",
+        "/assets/images/unsplash/dSringeri.jpg",
+        "/assets/images/unsplash/wBengaluru.jpg",
+        "/assets/images/unsplash/wChikmagaluru.jpg",
+        "/assets/images/unsplash/wGokarna.jpg",
+        "/assets/images/unsplash/wSringeri.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "https:\\/\\/mydayouting\\.herokuapp\\.com\\/api\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/assets/WhatsApp_Logo_6.png": "d9a6522a37baeddc21a145da07218e68a0175953",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/allImages/astagiri-homestay.jpg": "ac2a3d3af30363db9b0bf26d0065c6999c9e47c6",
+    "/assets/images/allImages/bahar-beach-house-udupi.jpg": "cda718f54b372a15becc3528374d9507174e0332",
+    "/assets/images/allImages/bengaluru.jpeg": "85604d4d1684931eaa939f8af6cff89b6097f50b",
+    "/assets/images/allImages/etthinabhuja-chikmagalur.jpeg": "391a1223e06c110db8af2dcf7780977d10b32aa0",
+    "/assets/images/allImages/gubbi-goodu-veg-resort.jpg": "b9f194b04a157d2d0b74f77bb55db83d097fd472",
+    "/assets/images/allImages/homeImage.png": "c064efa66a2cc5a0c249afa720378c8ab5542b20",
+    "/assets/images/allImages/mydayouting-banner.jpg": "6dba4abf02fca310b7cc3cf4a8463e81b6274b8b",
+    "/assets/images/allImages/om-beach-gokarna.jpeg": "390719f2f5908fb13f11dbf802b64bc8e52b7c70",
+    "/assets/images/allImages/suggee-resort-bangalore.jpg": "22b92d85d3a6686f48ab420860f94a307b50e612",
+    "/assets/images/allImages/sw-beach-stay-gokarna.jpg": "94eae027fc3e280715bc13916773737eb67d2aef",
+    "/assets/images/allImages/udupi.jpeg": "355d76115a9ae2f588a8a0543668af4cb494be27",
+    "/assets/images/backgroundHome.jpg": "71c20733ddd78e216e278d3473741989ed1e1e1e",
+    "/assets/images/headerLogo.png": "1fea7ad58214eda5e6e5d0c6395168fd2c8a2daa",
+    "/assets/images/unsplash/dBengaluru.jpg": "0769f33f1e756e380ae3534e2250963704368aeb",
+    "/assets/images/unsplash/dChikmagaluru.jpg": "dbb4fdd552dd2a15ec71ad61225acc9df34b1eff",
+    "/assets/images/unsplash/dGokarna.jpg": "72c1139cd70be7955a03866b6798761ae88fa689",
+    "/assets/images/unsplash/dSringeri.jpg": "2525dd5bd1cc30548411e6fbdef6b0da8e943f3b",
+    "/assets/images/unsplash/wBengaluru.jpg": "4f7eb88ebf93d853bbdbd389e4e89ded37331f40",
+    "/assets/images/unsplash/wChikmagaluru.jpg": "7209ad8300e9e9f39ef5f5abe21c49e2834a3570",
+    "/assets/images/unsplash/wGokarna.jpg": "0b4b299f7b6634fdacea7886a5f1857cce5008b7",
+    "/assets/images/unsplash/wSringeri.jpg": "e1d9285064f34741f444eef40602a7b1215c8f7d",
+    "/index.html": "69a1eb3e5b7e4bcbaf312388db0c2ff591197c85",
+    "/main.9f6ca6e249e97c9ccb27.js": "87ae48cf0091fc6d9cb60b8d793c0990268b92d1",
+    "/manifest.webmanifest": "6c00f757033d6aad80fc964b708f12a24de02454",
+    "/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.5a27c927db7c04440440.css": "84aad1263893b5beb15dfe785356734685f15bb6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
